@@ -1,0 +1,6 @@
+{
+  "name": "BB Pizza Bishkek",
+  "description": "Онлайн-доставка настоящей неаполитанской и фирменной пиццы в Бишкеке с моментальной оплатой картой и живым трекингом курьера в реальном времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
